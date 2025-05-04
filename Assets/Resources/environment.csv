@@ -1,0 +1,6 @@
+temperature,humidity,disease_probability
+22.5,60,0.01
+27.1,72,0.86
+24.3,65,0.12
+28.0,70,0.92
+23.0,60,0.05
